@@ -1,0 +1,17 @@
+{
+    "name": "sk/challenge-1",
+    "autoload": {
+        "psr-4": {
+            "Sk\\Challenge1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "SULEYMAN KUTUK",
+            "email": "kutuk.suleymann@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.3"
+    }
+}
